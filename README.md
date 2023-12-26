@@ -2,7 +2,12 @@
 rewrite in go of https://github.com/Nabaixin/TFOLED  
 tested on RaspberryPi 4b+ .raspios arm64 , ubuntu arm64,openWrt arm64
 #install 
-upload to RaspberryPi
+upload to RaspberryPi  
+
+<img src="https://github.com/hilaoyu/go-tfoled-new/blob/main/preview.jpg">
+
+
+  
 ### in raspios
 do raspi-config enable i2c
 ### in openwrt
